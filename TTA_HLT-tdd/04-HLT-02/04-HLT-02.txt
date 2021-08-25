@@ -1,0 +1,11 @@
+Beaufort Scale
+Write a function to categorise a wind speed in knots according to 
+the Beaufort Wind Scale.
+(https://www.metoffice.gov.uk/weather/guides/coast-andsea/beaufort-scale)
+For example:
+Given 6, the function should return “Light breeze”.
+Given 59, the function should return “Violent storm”.
+
+
+
+1/

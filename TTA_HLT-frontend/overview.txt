@@ -1,0 +1,3 @@
+JavaScript - input/output, basic maths, variables, selection, iteration, functions. 
+Media queries. 
+Responsive images. 

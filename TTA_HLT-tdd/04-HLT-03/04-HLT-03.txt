@@ -1,0 +1,9 @@
+MPH to Knots
+Write a function to convert a speed in miles per hour to knots.
+(1 mph = 0.8689762 knots)
+For example,
+5 mph = 4.344881 knots
+
+
+
+1/
